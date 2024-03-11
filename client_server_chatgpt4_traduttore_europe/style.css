@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("Helvetica.eot");
+  src: local("Helvetica"), url("Helvetica.eot?#iefix") format("embedded-opentype"), url("Helvetica.woff2") format("woff2"), url("Helvetica.woff") format("woff"), url("Helvetica.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("Helvetica-Light.eot");
+  src: local("Helvetica Light"), local("Helvetica-Light"), url("Helvetica-Light.eot?#iefix") format("embedded-opentype"), url("Helvetica-Light.woff2") format("woff2"), url("Helvetica-Light.woff") format("woff"),
+    url("Helvetica-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+canvas {
+  position: absolute;
+  z-index: 0;
+}
+
+button {
+  position: absolute;
+  z-index: 200;
+  left: 200px;
+  top: 200px;
+  color: red;
+  background-color: pink;
+  border: red;
+}
+
+#cartiglio {
+  display: flex;
+  width: 1080px;
+  align-items: flex-start;
+  gap: 21px;
+  background: #000;
+  color: #fff;
+  /* leading-trim: both;
+    text-edge: cap; */
+  font-family: Helvetica;
+  font-weight: 300;
+  line-height: 1;
+  position: absolute;
+  z-index: 1000;
+  bottom: 0;
+}
+
+#left {
+  flex: 3;
+  /* background: #c00000; */
+  display: flex;
+  padding: 30px 0px 30px 30px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  flex-shrink: 0;
+  align-self: stretch;
+}
+
+#time {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+#place {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 7px;
+  flex: 1 0 0;
+}
+
+#right {
+  flex: 5;
+  /* background: #53c000; */
+  display: flex;
+  padding: 30px 30px 30px 0px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+  align-self: stretch;
+  justify-content: flex-end;
+}
+
+#timeZone {
+  font-size: 1.25rem;
+  display: inline;
+}
+
+#currentDateTime {
+  display: inline;
+}
+
+#state {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 2.4375rem;
+}
+
+h2 {
+  font-size: 1.8125rem;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.5625rem;
+  line-height: 1.75rem; /* 112% */
+  font-kerning: auto;
+  letter-spacing: 0.05em;
+}
+
+h4 {
+  font-size: 1.25rem;
+}

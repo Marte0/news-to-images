@@ -1,0 +1,109 @@
+{
+   "accounts":[
+    {
+        "id": "BBCNorthAmerica",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "ABC",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "DailyMailCeleb",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "THR",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "USATODAY",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "WashTimes",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "nypost",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "Newsday",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "washingtonpost",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "cnnbrk",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "WSJ",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "Lattime",
+        "timezone": "-5",
+        "state": "USA"
+    },
+    {
+        "id": "TheTorontoSun",
+        "timezone": "-5",
+        "state": "Canada"
+    },
+    {
+        "id": "CBCCanadian",
+        "timezone": "-5",
+        "state": "Canada"
+    },
+    {
+        "id": "nationalpost",
+        "timezone": "-5",
+        "state": "Canada"
+    },
+    {
+        "id": "globeandmail",
+        "timezone": "-5",
+        "state": "Canada"
+    },
+    {
+        "id": "CNNMex",
+        "timezone": "-6",
+        "state": "Mexico"
+    },
+    {
+        "id": "lajornadaonline",
+        "timezone": "-6",
+        "state": "Mexico"
+    },
+    {
+        "id": "milenio",
+        "timezone": "-6",
+        "state": "Mexico"
+    },
+    {
+        "id": "CNNBrasil",
+        "timezone": "-3",
+        "state": "Brasil"
+    },
+    {
+        "id": "CNNArgentina",
+        "timezone": "-3",
+        "state": "Argentina"
+    }
+   ]
+}

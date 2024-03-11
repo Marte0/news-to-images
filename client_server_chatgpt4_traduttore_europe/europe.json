@@ -1,0 +1,99 @@
+{
+    "accounts":[
+        {
+            "id": "euronews",
+            "timezone": "+0",
+            "state": ""
+        },
+        {
+            "id": "Corriere",
+            "timezone": "+1",
+            "state": "Italy"
+        },
+        {
+            "id": "ilpost",
+            "timezone": "+1",
+            "state": "Italy"
+        },
+        {
+            "id": "repubblica",
+            "timezone": "+1",
+            "state": "Italy"
+        },
+        {
+            "id": "KyivIndependent",
+            "timezone": "+2",
+            "state": "Ukraine"
+        },
+        {
+            "id": "KyivPost",
+            "timezone": "+2",
+            "state": "Ukraine"
+        },
+        {
+            "id": "le_Parisien",
+            "timezone": "+1",
+            "state": "France"
+        },
+        {
+            "id": "RFI",
+            "timezone": "+1",
+            "state": "France"
+        },
+        {
+            "id": "Daily_Express",
+            "timezone": "+0",
+            "state": "UK"
+        },
+        {
+            "id": "DailyMirror",
+            "timezone": "+0",
+            "state": "UK"
+        },
+        {
+            "id": "TheSun",
+            "timezone": "+0",
+            "state": "UK"
+        },
+        {
+            "id": "guardiannews",
+            "timezone": "+0",
+            "state": "UK"
+        },
+        {
+            "id": "BBCNews",
+            "timezone": "+0",
+            "state": "UK"
+        },
+        {
+            "id": "elmundoes",
+            "timezone": "+1",
+            "state": "Spain"
+        },
+        {
+            "id": "el_pais",
+            "timezone": "+1",
+            "state": "Spain"
+        },
+        {
+            "id": "dwnews",
+            "timezone": "+1",
+            "state": "Germany"
+        },
+        {
+            "id": "rponline",
+            "timezone": "+1",
+            "state": "Germany"
+        },
+        {
+            "id": "derspiegel",
+            "timezone": "+1",
+            "state": "Germany"
+        },
+        {
+            "id": "CdT_Online",
+            "timezone": "+1",
+            "state": "Switzerland"
+        }
+    ]
+}
